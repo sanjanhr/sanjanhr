@@ -58,11 +58,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanhr&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanhr&layout=compact&theme=tokyonight)
 
 ---
 
